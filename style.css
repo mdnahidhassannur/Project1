@@ -14,6 +14,9 @@
 .text-primary{
     color: #FD6E0A;
 }
+.bg{
+    background-color:#FFF8F3 ;
+}
 .button{
     background-color: #FD6E0A;
     color: white;
@@ -27,6 +30,11 @@
 .dark-2{
     color:#474747
 }
+.dark-3{
+    color:#757575
+}
+
+
 /*header*/
 .header{
   background-image: url('images/developer.png'), url('images/header_bg.png');
@@ -81,4 +89,31 @@ nav li a {
 .banner-discription {
     max-width: 600;
     color: #474747;
+}
+/*main style*/
+
+.section{
+    font-size: 35px;
+    font-weight: bold;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color:#181818
+}
+.section-discription{
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
 }
