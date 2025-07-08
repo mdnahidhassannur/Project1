@@ -91,7 +91,11 @@ nav li a {
     color: #474747;
 }
 /*main style*/
-
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/*section style*/
 .section{
     font-size: 35px;
     font-weight: bold;
@@ -106,10 +110,7 @@ nav li a {
     font-weight: normal;
     text-align: center;
 }
-.main{
-    max-width: 1140px;
-    margin: 0 auto;
-}
+
 .about{
     border-radius: 10px;
     padding: 130px 150px;
