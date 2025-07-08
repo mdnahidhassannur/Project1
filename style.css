@@ -20,7 +20,14 @@ nav{
 }
 .nav-title {
     font-size:  45px;;
-    font: weight 800px;;
-   
+    font: weight 800px;; 
 }
-
+nav ul {
+    list-style: none;
+}
+nav li a {
+    text-decoration: none;
+}
+.dark-2{
+    color:#474747
+}
